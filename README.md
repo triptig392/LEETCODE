@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/triptig392/LEETCODE/tree/master/0198-house-robber) |
 | [1256-rank-transform-of-an-array](https://github.com/triptig392/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/triptig392/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Hash Table
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/triptig392/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/triptig392/LEETCODE/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
