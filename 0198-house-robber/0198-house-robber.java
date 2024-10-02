@@ -1,16 +1,18 @@
 class Solution {
     public int rob(int[] arr) {
         int n = arr.length;
-        int[] dp = new int[n];
 
-        dp[0] = arr[0];
+        int prev = arr[0];
+        int prev2 = 0;
 
         for(int i=1; i<n; i++){
-            int take =  ((i-2)>=0) ? (arr[i]+dp[i-2] ): (arr[i]);
-            int nonTake = dp[i-1];
-            dp[i] = Math.max(take, nonTake);
+            int take =  ((i-2)>=0) ? (arr[i]+prev2 ): (arr[i]);
+            int nonTake = prev;
+            int curr = Math.max(take, nonTake);
+            prev2 = prev;
+            prev = curr;
         }
 
-        return dp[n-1];
+        return prev;
     }
 }
