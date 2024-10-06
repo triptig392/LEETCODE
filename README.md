@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/triptig392/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/triptig392/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/triptig392/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
+| [1923-sentence-similarity-iii](https://github.com/triptig392/LEETCODE/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/triptig392/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
@@ -42,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/triptig392/LEETCODE/tree/master/0567-permutation-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/triptig392/LEETCODE/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/triptig392/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/triptig392/LEETCODE/tree/master/0567-permutation-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/triptig392/LEETCODE/tree/master/1923-sentence-similarity-iii) |
 ## Sliding Window
 |  |
 | ------- |
