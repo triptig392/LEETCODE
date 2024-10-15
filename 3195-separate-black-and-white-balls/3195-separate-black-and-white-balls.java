@@ -9,10 +9,10 @@ class Solution {
             if (s.charAt(currentPos) == '0') {
                 // Calculate the number of swaps needed
                 // to move it to leftmost available position
-                totalSwaps += currentPos - whitePosition;
+                totalSwaps += currentPos - whitePosition++;
 
                 // Move the next available position for a white ball one step to the right
-                whitePosition++;
+                //whitePosition++;
             }
         }
 
