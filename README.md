@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/triptig392/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/triptig392/LEETCODE/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/triptig392/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/triptig392/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/triptig392/LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/triptig392/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/triptig392/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/triptig392/LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Math
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/triptig392/LEETCODE/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
