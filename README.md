@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/triptig392/LEETCODE/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/triptig392/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/triptig392/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/triptig392/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/triptig392/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/triptig392/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/triptig392/LEETCODE/tree/master/1923-sentence-similarity-iii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/triptig392/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/triptig392/LEETCODE/tree/master/0213-house-robber-ii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/triptig392/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/triptig392/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/triptig392/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
