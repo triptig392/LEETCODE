@@ -15,8 +15,8 @@ class Solution {
         }
 
         // Compute LDS from each index
-        for (int i = n - 1; i >= 0; --i) {
-            for (int j = n - 1; j > i; --j) {
+        for (int i = n - 1; i >= 0; i--) {
+            for (int j = i; j < n ; j++) {
                 if (nums[i] > nums[j]) {
                     LDS[i] = Math.max(LDS[i], LDS[j] + 1);
                 }
