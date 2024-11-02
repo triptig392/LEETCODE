@@ -1,11 +1,20 @@
-public class Solution {
 
-    public boolean isCircularSentence(String sentence) {
-        for (int i = 0; i < sentence.length(); i++) {
-            if (sentence.charAt(i) == ' ' && sentence.charAt(i - 1) != sentence.charAt(i + 1)){
+class Solution {
+    public boolean isCircularSentence(String s) {
+        if (s.charAt(0) != s.charAt(s.length() - 1))
+            return false;
+
+        int k = s.indexOf(" ");
+        if (k == -1)
+            return true;
+
+        while (k != -1) {
+            if (s.charAt(k - 1) != s.charAt(k + 1)) {
                 return false;
             }
+
+            k = s.indexOf(" ", k+1);
         }
-        return sentence.charAt(0) == sentence.charAt(sentence.length() - 1);
+        return true;
     }
 }
