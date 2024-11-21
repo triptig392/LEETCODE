@@ -6,17 +6,17 @@ class Solution {
         int l = 0;
         int r = 0;
 
-        HashMap<Integer, Integer> numToIndex = new HashMap<>();
+        HashMap<Integer, Integer> hm = new HashMap<>();
 
         while (r < nums.length) {
             int currNum = nums[r];
-            int lastOccurrence = numToIndex.getOrDefault(currNum, -1);
+            int lastOccurrence = hm.getOrDefault(currNum, -1);
             // if current window already has number or if window is too big, adjust window
             while (l <= lastOccurrence || r - l + 1 > k) {
                 currentSum -= nums[l];
                 l++;
             }
-            numToIndex.put(currNum, r);
+            hm.put(currNum, r);
             currentSum += nums[r];
             if (r - l + 1 == k) {
                 ans = Math.max(ans, currentSum);
