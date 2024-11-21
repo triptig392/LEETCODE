@@ -14,6 +14,10 @@ class Solution {
             // if current window already has number or if window is too big, adjust window
             while (l <= lastOccurrence || r - l + 1 > k) {
                 currentSum -= nums[l];
+                hm.put(nums[l], hm.getOrDefault(nums[l], 1)-1);
+                if((hm.get(nums[l]))==0){
+                    hm.remove(nums[l]);
+                }
                 l++;
             }
             hm.put(currNum, r);
