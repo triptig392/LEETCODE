@@ -1,32 +1,27 @@
 class Solution {
-    public int maxEqualRowsAfterFlips(int[][] matrix) {
-        HashMap<String, Integer> hm = new HashMap<>();
+    public int maxEqualRowsAfterFlips(int[][] mat) {
+        int n = mat.length, m = mat[0].length;
         int ans = 0;
+        Map<String, Integer> map = new HashMap<>();
 
-        for(int i=0; i<matrix.length; i++){
-            String str = "";
-            String inv = "";
-            for(int j=0; j<matrix[0].length; j++){
-                str+=matrix[i][j];
-                if(matrix[i][j] == 0){
-                    inv = inv+ 1; 
-                }else{
-                    inv = inv+0;
-                }
+        for (int[] row : mat) {
+            StringBuilder bin = new StringBuilder();
+            StringBuilder invBin = new StringBuilder();
+
+            for (int val : row) {
+                bin.append(val == 0 ? '0' : '1');
+                invBin.append(val == 0 ? '1' : '0');
             }
-            if(hm.containsKey(str)){
-                    int m = hm.get(str)+1;
-                    hm.put(str,m);
-                    ans = Math.max(m, ans);
-                }else if(hm.containsKey(inv)){
-                    int m = hm.get(inv)+1;
-                    hm.put(inv, m);
-                    ans = Math.max(m, ans);
-                }else{
-                    hm.put(str, 1);
-                    ans = Math.max(ans, 1);
-                }
+
+            String binStr = bin.toString();
+            String invBinStr = invBin.toString();
+
+            map.put(binStr, map.getOrDefault(binStr, 0) + 1);
+            map.put(invBinStr, map.getOrDefault(invBinStr, 0) + 1);
+
+            ans = Math.max(ans, Math.max(map.get(binStr), map.get(invBinStr)));
         }
+
         return ans;
     }
 }
