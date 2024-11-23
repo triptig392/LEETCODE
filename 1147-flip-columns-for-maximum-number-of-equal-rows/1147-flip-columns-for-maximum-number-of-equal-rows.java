@@ -3,6 +3,7 @@ class Solution {
     public int maxEqualRowsAfterFlips(int[][] matrix) {
         // Map to store frequency of each pattern
         Map<String, Integer> patternFrequency = new HashMap<>();
+        int maxFrequency = 0;
 
         for (int[] currentRow : matrix) {
             StringBuilder patternBuilder = new StringBuilder("");
@@ -19,18 +20,13 @@ class Solution {
 
             // Convert pattern to string and update its frequency in map
             String rowPattern = patternBuilder.toString();
-            patternFrequency.put(
-                rowPattern,
-                patternFrequency.getOrDefault(rowPattern, 0) + 1
-            );
+            patternFrequency.put(rowPattern, patternFrequency.getOrDefault(rowPattern, 0) + 1);
+
+            int freq = patternFrequency.get(rowPattern);
+            maxFrequency = Math.max(freq, maxFrequency);
         }
 
         // Find the pattern with maximum frequency
-        int maxFrequency = 0;
-        for (int frequency : patternFrequency.values()) {
-            maxFrequency = Math.max(frequency, maxFrequency);
-        }
-
         return maxFrequency;
     }
 }
