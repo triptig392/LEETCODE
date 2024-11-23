@@ -20,9 +20,8 @@ class Solution {
 
             // Convert pattern to string and update its frequency in map
             String str = sb.toString();
-            hm.put(str, hm.getOrDefault(str, 0) + 1);
-
-            int freq = hm.get(str);
+            int freq = hm.getOrDefault(str, 0) + 1;
+            hm.put(str, freq);
             ans = Math.max(freq, ans);
         }
 
