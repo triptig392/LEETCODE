@@ -1,27 +1,36 @@
 class Solution {
-    public int maxEqualRowsAfterFlips(int[][] mat) {
-        int n = mat.length, m = mat[0].length;
-        int ans = 0;
-        Map<String, Integer> map = new HashMap<>();
 
-        for (int[] row : mat) {
-            StringBuilder bin = new StringBuilder();
-            StringBuilder invBin = new StringBuilder();
+    public int maxEqualRowsAfterFlips(int[][] matrix) {
+        // Map to store frequency of each pattern
+        Map<String, Integer> patternFrequency = new HashMap<>();
 
-            for (int val : row) {
-                bin.append(val == 0 ? '0' : '1');
-                invBin.append(val == 0 ? '1' : '0');
+        for (int[] currentRow : matrix) {
+            StringBuilder patternBuilder = new StringBuilder("");
+
+            // Convert row to pattern relative to its first element
+            for (int col = 0; col < currentRow.length; col++) {
+                // 'T' if current element matches first element, 'F' otherwise
+                if (currentRow[0] == currentRow[col]) {
+                    patternBuilder.append("T");
+                } else {
+                    patternBuilder.append("F");
+                }
             }
 
-            String binStr = bin.toString();
-            String invBinStr = invBin.toString();
-
-            map.put(binStr, map.getOrDefault(binStr, 0) + 1);
-            map.put(invBinStr, map.getOrDefault(invBinStr, 0) + 1);
-
-            ans = Math.max(ans, Math.max(map.get(binStr), map.get(invBinStr)));
+            // Convert pattern to string and update its frequency in map
+            String rowPattern = patternBuilder.toString();
+            patternFrequency.put(
+                rowPattern,
+                patternFrequency.getOrDefault(rowPattern, 0) + 1
+            );
         }
 
-        return ans;
+        // Find the pattern with maximum frequency
+        int maxFrequency = 0;
+        for (int frequency : patternFrequency.values()) {
+            maxFrequency = Math.max(frequency, maxFrequency);
+        }
+
+        return maxFrequency;
     }
 }
