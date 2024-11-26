@@ -1,24 +1,31 @@
 class Solution {
     public int findChampion(int n, int[][] edges) {
-        boolean[] isUndefeated = new boolean[n];
-        Arrays.fill(isUndefeated, true);
-        
-        for (int[] edge : edges) {
-            int winner = edge[0];
-            int loser = edge[1];
-            isUndefeated[loser] = false;
+        int[][] arr = new int[n][2];
+
+        for(int i=0; i<n; i++){
+            arr[i][1] = i;
         }
-        
-        int champion = -1;
-        int championCount = 0;
-        
-        for (int team = 0; team < n; team++) {
-            if (isUndefeated[team]) {
-                champion = team;
-                championCount++;
-            }
+
+        for(int[] edge: edges){
+            arr[edge[1]][0]--;
         }
+
+        Arrays.sort(arr, (a, b)-> a[0]-b[0]);
+
         
-        return championCount == 1 ? champion : -1;
+
+        for(int i=0; i<n; i++){
+            System.out.println(arr[i][0] + " " + arr[i][1]);
+        }
+
+        if(n== 1 ){
+            return 0; 
+        }
+
+        if( arr[n-1][0] != arr[n-2][0] ){
+            return arr[n-1][1];
+        }
+
+        return -1;
     }
 }
