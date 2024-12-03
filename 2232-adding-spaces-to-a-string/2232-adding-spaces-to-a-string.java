@@ -1,17 +1,23 @@
 class Solution {
+
     public String addSpaces(String s, int[] spaces) {
-        int j = 0;
+        StringBuilder result = new StringBuilder();
+        // Pre-allocate space for efficiency
+        result.ensureCapacity(s.length() + spaces.length);
 
-        StringBuilder sb = new StringBuilder();
-
-        for(int i=0; i<s.length(); i++){
-            if(j<spaces.length && i == spaces[j]){
-                sb.append(" ");
-                j++;
+        int spaceIndex = 0;
+        for (int stringIndex = 0; stringIndex < s.length(); ++stringIndex) {
+            if (
+                spaceIndex < spaces.length && stringIndex == spaces[spaceIndex]
+            ) {
+                // Insert space at the correct position
+                result.append(' ');
+                ++spaceIndex;
             }
-            sb.append(s.charAt(i));
+            // Append the current character
+            result.append(s.charAt(stringIndex));
         }
 
-        return sb.toString();
+        return result.toString();
     }
 }
