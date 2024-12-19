@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/triptig392/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/triptig392/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/triptig392/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0780-max-chunks-to-make-sorted](https://github.com/triptig392/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/triptig392/LEETCODE/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/triptig392/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/triptig392/LEETCODE/tree/master/1002-maximum-width-ramp) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/triptig392/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0780-max-chunks-to-make-sorted](https://github.com/triptig392/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/triptig392/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/triptig392/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/triptig392/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/triptig392/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/triptig392/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/triptig392/LEETCODE/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/triptig392/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/triptig392/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/triptig392/LEETCODE/tree/master/0670-maximum-swap) |
+| [0780-max-chunks-to-make-sorted](https://github.com/triptig392/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/triptig392/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/triptig392/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/triptig392/LEETCODE/tree/master/2089-maximum-matrix-sum) |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/triptig392/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/triptig392/LEETCODE/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/triptig392/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Heap (Priority Queue)
