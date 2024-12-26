@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/triptig392/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/triptig392/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0494-target-sum](https://github.com/triptig392/LEETCODE/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/triptig392/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/triptig392/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/triptig392/LEETCODE/tree/master/0787-sliding-puzzle) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/triptig392/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/triptig392/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0494-target-sum](https://github.com/triptig392/LEETCODE/tree/master/0494-target-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/triptig392/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/triptig392/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/triptig392/LEETCODE/tree/master/2554-minimum-total-distance-traveled) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/triptig392/LEETCODE/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/triptig392/LEETCODE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/triptig392/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
