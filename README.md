@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/triptig392/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/triptig392/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/triptig392/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/triptig392/LEETCODE/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/triptig392/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/triptig392/LEETCODE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/triptig392/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/triptig392/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/triptig392/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/triptig392/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/triptig392/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/triptig392/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/triptig392/LEETCODE/tree/master/0787-sliding-puzzle) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/triptig392/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/triptig392/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/triptig392/LEETCODE/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/triptig392/LEETCODE/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/triptig392/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
