@@ -12,7 +12,7 @@ class Solution {
 
             if(sq == x){
                 return mid;
-            }else if(sq < (long)x){
+            }else if(sq <x){
                 l = mid+1;
             }else{
                 r=mid-1;
