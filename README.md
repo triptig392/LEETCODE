@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/triptig392/LEETCODE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/triptig392/LEETCODE/tree/master/0189-rotate-array) |
+| [0441-arranging-coins](https://github.com/triptig392/LEETCODE/tree/master/0441-arranging-coins) |
 | [0670-maximum-swap](https://github.com/triptig392/LEETCODE/tree/master/0670-maximum-swap) |
 | [2716-prime-subtraction-operation](https://github.com/triptig392/LEETCODE/tree/master/2716-prime-subtraction-operation) |
 ## Backtracking
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/triptig392/LEETCODE/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/triptig392/LEETCODE/tree/master/0441-arranging-coins) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/triptig392/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/triptig392/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/triptig392/LEETCODE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
