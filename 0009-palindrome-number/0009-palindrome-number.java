@@ -13,9 +13,9 @@ class Solution {
             x = x/10;
         }
         
-        if(rev > max){
-            return false;
-        }
+        // if(rev > max){
+        //     return false;
+        // }
         if(rev == org){
             return true;
         }
