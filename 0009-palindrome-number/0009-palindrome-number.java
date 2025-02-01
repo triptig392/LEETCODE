@@ -5,7 +5,6 @@ class Solution {
         }
         int org = x;
         int rev = 0;
-        int min = Integer.MIN_VALUE;
         int max = Integer.MAX_VALUE;
 
         while(x != 0){
