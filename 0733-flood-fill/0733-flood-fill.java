@@ -1,7 +1,8 @@
 class Solution {
     public void dfs(int[][] arr, int sr, int sc, int color, int initial){
-
-        if(sr < 0 || sr >= arr.length || sc < 0 || sc >= arr[0].length || arr[sr][sc] != initial){
+        int n = arr.length;
+        int m = arr[0].length;
+        if(sr < 0 || sr >= n|| sc < 0 || sc >= m || arr[sr][sc] != initial){
             return;
         }
 
