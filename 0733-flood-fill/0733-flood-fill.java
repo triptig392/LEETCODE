@@ -1,27 +1,22 @@
 class Solution {
-    public void dfs(int[][] arr, int sr, int sc, int color, int initial, int[] r, int[] c){
+    public void dfs(int[][] arr, int sr, int sc, int color, int initial){
         if(initial == color){
             return;
         }
-        arr[sr][sc]= color;
 
-        for(int i=0; i<4; i++){
-            int row = sr+r[i];
-            int col = sc+c[i];
-            if(row >=0 && row < arr.length && col >=0 && col < arr[0].length ){
-                if(arr[row][col] == initial ){
-                    dfs(arr, row, col, color, initial, r, c);
-                }
-            }
+        if(sr >= 0 && sr <arr.length && sc >=0 && sc < arr[0].length && arr[sr][sc] == initial){
+            arr[sr][sc]= color;
+
+            dfs(arr, sr-1, sc, color, initial);
+            dfs(arr, sr, sc+1, color, initial);
+            dfs(arr, sr+1, sc, color, initial);
+            dfs(arr, sr, sc-1, color, initial);
         }
     }
 
     public int[][] floodFill(int[][] arr, int sr, int sc, int color) {
         int initial = arr[sr][sc];
-        int[] r = {-1, 0, +1, 0};
-        int[] c = {0, +1, 0, -1};
-        dfs(arr, sr, sc, color, initial, r, c);
-        System.gc();
+        dfs(arr, sr, sc, color, initial);
         return arr;
     }
 }
