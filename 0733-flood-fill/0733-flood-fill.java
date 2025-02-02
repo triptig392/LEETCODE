@@ -21,6 +21,7 @@ class Solution {
         int[] r = {-1, 0, +1, 0};
         int[] c = {0, +1, 0, -1};
         dfs(arr, sr, sc, color, initial, r, c);
+        System.gc();
         return arr;
     }
 }
