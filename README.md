@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/triptig392/LEETCODE/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/triptig392/LEETCODE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/triptig392/LEETCODE/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/triptig392/LEETCODE/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/triptig392/LEETCODE/tree/master/0441-arranging-coins) |
 | [0670-maximum-swap](https://github.com/triptig392/LEETCODE/tree/master/0670-maximum-swap) |
 | [2716-prime-subtraction-operation](https://github.com/triptig392/LEETCODE/tree/master/2716-prime-subtraction-operation) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/triptig392/LEETCODE/tree/master/0231-power-of-two) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/triptig392/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/triptig392/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/triptig392/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/triptig392/LEETCODE/tree/master/0231-power-of-two) |
 | [1197-parsing-a-boolean-expression](https://github.com/triptig392/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/triptig392/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Tree
