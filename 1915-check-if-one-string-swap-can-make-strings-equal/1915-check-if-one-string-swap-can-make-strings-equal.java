@@ -1,8 +1,5 @@
 class Solution {
     public boolean areAlmostEqual(String s1, String s2) {
-        if(s1.length() != s2.length()){
-            return false;
-        }
         int swap = 0;
         int swapIdx = -1;
         int swapIdx2 = -1;
