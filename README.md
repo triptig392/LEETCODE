@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/triptig392/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/triptig392/LEETCODE/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/triptig392/LEETCODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/triptig392/LEETCODE/tree/master/2434-design-a-number-container-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/triptig392/LEETCODE/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/triptig392/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/triptig392/LEETCODE/tree/master/2586-longest-square-streak-in-an-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/triptig392/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2300-construct-string-with-repeat-limit](https://github.com/triptig392/LEETCODE/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/triptig392/LEETCODE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2434-design-a-number-container-system](https://github.com/triptig392/LEETCODE/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/triptig392/LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/triptig392/LEETCODE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/triptig392/LEETCODE/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -457,4 +459,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/triptig392/LEETCODE/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/triptig392/LEETCODE/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/triptig392/LEETCODE/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
