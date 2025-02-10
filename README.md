@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/triptig392/LEETCODE/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/triptig392/LEETCODE/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/triptig392/LEETCODE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3447-clear-digits](https://github.com/triptig392/LEETCODE/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/triptig392/LEETCODE/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/triptig392/LEETCODE/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sliding Window
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/triptig392/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/triptig392/LEETCODE/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/triptig392/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/triptig392/LEETCODE/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/triptig392/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/triptig392/LEETCODE/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/triptig392/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/triptig392/LEETCODE/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
