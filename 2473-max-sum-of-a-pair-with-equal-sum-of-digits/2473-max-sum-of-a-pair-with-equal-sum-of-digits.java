@@ -1,44 +1,19 @@
 class Solution {
-
-    // Helper function to compute the sum of digits of a number
-    private int calculateDigitSum(int num) {
-        int digitSum = 0;
-        while (num > 0) {
-            digitSum += num % 10;
-            num /= 10;
-        }
-        return digitSum;
-    }
-
     public int maximumSum(int[] nums) {
-        // Array to store a min heap for each possible digit sum (0 to 81)
-        PriorityQueue<Integer>[] digitSumGroups = new PriorityQueue[82];
-        for (int i = 0; i < 82; i++) {
-            digitSumGroups[i] = new PriorityQueue<Integer>();
-        }
-
-        int maxPairSum = -1;
-
-        // Group numbers by their digit sums, maintaining heap size of 2
-        for (int number : nums) {
-            int digitSum = calculateDigitSum(number);
-            digitSumGroups[digitSum].add(number);
-
-            // Keep only the top 2 largest numbers in the heap
-            if (digitSumGroups[digitSum].size() > 2) {
-                digitSumGroups[digitSum].poll(); // Remove the smallest element
+        int[] max = new int[82];
+        int ans = -1;
+        for (int x : nums) {
+            int sum = 0;
+            int temp = x;
+            while (temp != 0) {
+                sum += temp % 10;
+                temp /= 10;
             }
-        }
-
-        // Traverse the vector to find the maximum pair sum for each group
-        for (PriorityQueue<Integer> minHeap : digitSumGroups) {
-            if (minHeap.size() == 2) {
-                int first = minHeap.poll();
-                int second = minHeap.poll();
-                maxPairSum = Math.max(maxPairSum, first + second);
+            if (max[sum] != 0) {
+                ans = Math.max(ans, x + max[sum]);
             }
+            max[sum] = Math.max(max[sum], x);
         }
-
-        return maxPairSum;
+        return ans;
     }
 }
