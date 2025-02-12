@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/triptig392/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/triptig392/LEETCODE/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/triptig392/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/triptig392/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/triptig392/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/triptig392/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/triptig392/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/triptig392/LEETCODE/tree/master/0054-spiral-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/triptig392/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/triptig392/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/triptig392/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/triptig392/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/triptig392/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/triptig392/LEETCODE/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/triptig392/LEETCODE/tree/master/0787-sliding-puzzle) |
