@@ -1,45 +1,27 @@
 class ProductOfNumbers {
-
-    // Stores cumulative product of the stream
-    private ArrayList<Integer> prefixProduct = new ArrayList<>();
-    private int size = 0;
-
+    List<Integer> list;
+    int idx;
+    int lastZero;
     public ProductOfNumbers() {
-        // Initialize the product list with 1 to handle multiplication logic
-        this.prefixProduct.add(1);
-        this.size = 0;
+        this.list = new ArrayList<>();
+        this.idx = 0;
+        this.list.add(1);
+        this.lastZero = 0;
     }
-
+    
     public void add(int num) {
-        if (num == 0) {
-            // If num is 0, reset the cumulative products since multiplication
-            // with 0 invalidates previous products
-            this.prefixProduct = new ArrayList<Integer>();
-            this.prefixProduct.add(1);
-            this.size = 0;
+        idx++;
+        if(num != 0) {
+            list.add(list.get(list.size() - 1) * num);
         } else {
-            // Append the cumulative product of the current number with the last
-            // product
-            this.prefixProduct.add(this.prefixProduct.get(size) * num);
-            this.size++;
+            lastZero = idx;
+            list.add(1);
         }
     }
-
+    
     public int getProduct(int k) {
-        // Check if the requested product length exceeds the size of the valid
-        // product list
-        if (k > this.size) return 0;
-
-        // Compute the product of the last k elements using division
-        return (
-            this.prefixProduct.get(this.size) /
-            this.prefixProduct.get(this.size - k)
-        );
+        if(lastZero <= idx - k) {
+            return list.get(list.size() - 1) / list.get(idx - k);
+        } else return 0; // x x 0 [3 4 5]
     }
 }
-/**
- * Your ProductOfNumbers object will be instantiated and called as such:
- * ProductOfNumbers obj = new ProductOfNumbers();
- * obj.add(num);
- * int param_2 = obj.getProduct(k);
- */
