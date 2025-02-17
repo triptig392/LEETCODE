@@ -6,7 +6,6 @@ class NumArray {
         arr[0] = nums[0];
         for(int i=1; i<n; i++){
             arr[i] = arr[i-1]+nums[i];
-            System.out.print(arr[i]+" ");
         }
     }
     
