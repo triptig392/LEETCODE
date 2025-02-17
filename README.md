@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/triptig392/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/triptig392/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/triptig392/LEETCODE/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/triptig392/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/triptig392/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/triptig392/LEETCODE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0733-flood-fill](https://github.com/triptig392/LEETCODE/tree/master/0733-flood-fill) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/triptig392/LEETCODE/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/triptig392/LEETCODE/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/triptig392/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/triptig392/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/triptig392/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0952-word-subsets](https://github.com/triptig392/LEETCODE/tree/master/0952-word-subsets) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/triptig392/LEETCODE/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/triptig392/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/triptig392/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/triptig392/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/triptig392/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
