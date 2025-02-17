@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/triptig392/LEETCODE/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/triptig392/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/triptig392/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0303-range-sum-query-immutable](https://github.com/triptig392/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/triptig392/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/triptig392/LEETCODE/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/triptig392/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/triptig392/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/triptig392/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/triptig392/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/triptig392/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/triptig392/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/triptig392/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/triptig392/LEETCODE/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
