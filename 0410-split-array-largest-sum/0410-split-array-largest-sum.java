@@ -19,6 +19,10 @@ class Solution {
         int si = 0;
         int ei = (int)1e9;
         int ans = ei;
+        for (int x : nums) {
+            si = Math.max(si, x);
+            ei += x;
+        }
 
         while(si<=ei){
             int mid = si+ (ei-si)/2;
