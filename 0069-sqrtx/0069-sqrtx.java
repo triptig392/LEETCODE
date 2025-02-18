@@ -1,24 +1,18 @@
 class Solution {
     public int mySqrt(int x) {
-        if(x==0 || x == 1){
-            return x;
-        }
-        int l = 1;
-        int r = x;
+        int si = 0;
+        int ei = x;
+        int ans= 0;
 
-        while(l<=r){
-            int mid = l+(r-l)/2;
-            long sq = (long)mid*mid;
-
-            if(sq == x){
-                return mid;
-            }else if(sq <x){
-                l = mid+1;
+        while(si <= ei){
+            int mid = si + (ei-si)/2;
+            if(1L*mid*mid <= (long)x){
+                 ans = mid;
+                si = mid+1;
             }else{
-                r=mid-1;
+                ei = mid-1;
             }
         }
-        System.out.println(l+"  " +r);
-        return Math.round(r);
+        return ans;
     }
 }
