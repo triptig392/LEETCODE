@@ -1,40 +1,31 @@
 class Solution {
-    public int calculateTotalHours(int[] v, int hourly) {
-        int totalH = 0;
-        int n = v.length;
-        //find total hours:
-        for (int i = 0; i < n; i++) {
-            totalH += Math.ceil((double)(v[i]) / (double)(hourly));
+    public boolean canBeDone(int mid, int[] arr , int k){
+         long ans = 0; // Use long to prevent overflow
+        for (int i = 0; i < arr.length; i++) {
+            ans += (arr[i] + mid - 1L) / mid; // Ceiling division
+            if (ans > k) return false; // If time exceeds h, stop early
         }
-        return totalH;
+        return ans <= k;
     }
-    public int findMax(int[] v) {
-        int maxi = Integer.MIN_VALUE;;
-        int n = v.length;
-        //find the maximum:
-        for (int i = 0; i < n; i++) {
-            maxi = Math.max(maxi, v[i]);
-        }
-        return maxi;
-    }
-    public int minimumRateToEatBananas(int[] v, int h) {
-        int low = 1, high = findMax(v);
+    public int minEatingSpeed(int[] piles, int h) {
+        int si = 1;
+        int ei = 0;
+        int ans = -1;
 
-        //apply binary search:
-        while (low <= high) {
-            int mid = (low + high) / 2;
-            int totalH = calculateTotalHours(v, mid);
-            if (totalH <= h) {
-                high = mid - 1;
-            } else {
-                low = mid + 1;
+        for(int i=0; i<piles.length ; i++){
+            ei = Math.max(ei, piles[i]);
+        }
+
+        while(si<=ei){
+            int mid = si + (ei - si) / 2;
+            if(canBeDone(mid, piles, h)){
+                ans = mid;
+                ei = mid-1;
+            }else{
+                si = mid+1;
             }
         }
-        return low;
-    }
 
-    public int minEatingSpeed(int[] piles, int h) {
-        int ans = minimumRateToEatBananas(piles, h);
         return ans;
     }
 }
