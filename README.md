@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/triptig392/LEETCODE/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/triptig392/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/triptig392/LEETCODE/tree/master/0169-majority-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/triptig392/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/triptig392/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/triptig392/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/triptig392/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/triptig392/LEETCODE/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/triptig392/LEETCODE/tree/master/0952-word-subsets) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/triptig392/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/triptig392/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/triptig392/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/triptig392/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
