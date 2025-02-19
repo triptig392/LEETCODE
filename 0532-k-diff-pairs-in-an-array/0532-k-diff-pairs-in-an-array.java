@@ -6,17 +6,19 @@ class Solution {
         int ans = 0;
         int n =  nums.length;
 
-        while( i<n && j <n){
-            if(j!=i  && nums[j]-nums[i] == k){
+        while( i<n && j<n){
+            while(j<n && nums[j]-nums[i] < k){
+                j++;
+            }
+            if(j!=i && j<n && i < n && nums[j]-nums[i] == k){
                 ans++;
-                while(j<n-1 && nums[j]==nums[j+1]){
-                    j++;
+                int curr = nums[i];
+                while(i<n && nums[i]==curr){
+                    i++;
                 }
-                j++;
-            }else if (nums[j] - nums[i] > k){
-                i++;
+                j = i;
             }else{
-                j++;
+                i++;
             }
         }
         return ans;
