@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/triptig392/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0407-trapping-rain-water-ii](https://github.com/triptig392/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/triptig392/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/triptig392/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/triptig392/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/triptig392/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/triptig392/LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/triptig392/LEETCODE/tree/master/0169-majority-element) |
@@ -590,11 +592,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/triptig392/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/triptig392/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/triptig392/LEETCODE/tree/master/0148-sort-list) |
 | [0838-design-linked-list](https://github.com/triptig392/LEETCODE/tree/master/0838-design-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/triptig392/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/triptig392/LEETCODE/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
