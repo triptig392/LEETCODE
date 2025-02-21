@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/triptig392/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/triptig392/LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/triptig392/LEETCODE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/triptig392/LEETCODE/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/triptig392/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/triptig392/LEETCODE/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/triptig392/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/triptig392/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/triptig392/LEETCODE/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/triptig392/LEETCODE/tree/master/0189-rotate-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/triptig392/LEETCODE/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/triptig392/LEETCODE/tree/master/0567-permutation-in-string) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/triptig392/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/triptig392/LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/triptig392/LEETCODE/tree/master/0169-majority-element) |
 ## Design
 |  |
@@ -581,5 +584,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/triptig392/LEETCODE/tree/master/0148-sort-list) |
 | [0838-design-linked-list](https://github.com/triptig392/LEETCODE/tree/master/0838-design-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/triptig392/LEETCODE/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
