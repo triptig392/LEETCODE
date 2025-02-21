@@ -584,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/triptig392/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/triptig392/LEETCODE/tree/master/0148-sort-list) |
 | [0838-design-linked-list](https://github.com/triptig392/LEETCODE/tree/master/0838-design-linked-list) |
 ## Merge Sort
