@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/triptig392/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/triptig392/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0138-copy-list-with-random-pointer](https://github.com/triptig392/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/triptig392/LEETCODE/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/triptig392/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/triptig392/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/triptig392/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/triptig392/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/triptig392/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/triptig392/LEETCODE/tree/master/0148-sort-list) |
 | [0838-design-linked-list](https://github.com/triptig392/LEETCODE/tree/master/0838-design-linked-list) |
 ## Merge Sort
