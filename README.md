@@ -545,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/triptig392/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0969-number-of-recent-calls](https://github.com/triptig392/LEETCODE/tree/master/0969-number-of-recent-calls) |
 | [2195-time-needed-to-buy-tickets](https://github.com/triptig392/LEETCODE/tree/master/2195-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/triptig392/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/triptig392/LEETCODE/tree/master/0304-range-sum-query-2d-immutable) |
 | [0838-design-linked-list](https://github.com/triptig392/LEETCODE/tree/master/0838-design-linked-list) |
+| [0969-number-of-recent-calls](https://github.com/triptig392/LEETCODE/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/triptig392/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/triptig392/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/triptig392/LEETCODE/tree/master/2434-design-a-number-container-system) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/triptig392/LEETCODE/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/triptig392/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 ## Bucket Sort
 |  |
