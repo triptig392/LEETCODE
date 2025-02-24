@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/triptig392/LEETCODE/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/triptig392/LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/triptig392/LEETCODE/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2195-time-needed-to-buy-tickets](https://github.com/triptig392/LEETCODE/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/triptig392/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/triptig392/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/triptig392/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/triptig392/LEETCODE/tree/master/0054-spiral-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/triptig392/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/triptig392/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2195-time-needed-to-buy-tickets](https://github.com/triptig392/LEETCODE/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/triptig392/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/triptig392/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/triptig392/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/triptig392/LEETCODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2195-time-needed-to-buy-tickets](https://github.com/triptig392/LEETCODE/tree/master/2195-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |
