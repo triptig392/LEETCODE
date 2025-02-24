@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/triptig392/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0179-largest-number](https://github.com/triptig392/LEETCODE/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/triptig392/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/triptig392/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/triptig392/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/triptig392/LEETCODE/tree/master/0567-permutation-in-string) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/triptig392/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0780-max-chunks-to-make-sorted](https://github.com/triptig392/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/triptig392/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/triptig392/LEETCODE/tree/master/1002-maximum-width-ramp) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/triptig392/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/triptig392/LEETCODE/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/triptig392/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/triptig392/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/triptig392/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/triptig392/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/triptig392/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0780-max-chunks-to-make-sorted](https://github.com/triptig392/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/triptig392/LEETCODE/tree/master/1002-maximum-width-ramp) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/triptig392/LEETCODE/tree/master/1305-number-of-visible-people-in-a-queue) |
